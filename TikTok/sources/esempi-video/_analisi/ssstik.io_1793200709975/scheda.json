@@ -1,0 +1,176 @@
+{
+  "larghezza": 576,
+  "altezza": 1024,
+  "fps": 25.0,
+  "durata_s": 73.8,
+  "file": "ssstik.io_1793200709975.mp4",
+  "lingua": "it",
+  "tagli_s": [
+    1.72,
+    2.4,
+    2.44,
+    2.48,
+    2.52,
+    2.56,
+    2.6,
+    2.64,
+    2.68,
+    3.72,
+    4.8,
+    7.92,
+    8.96,
+    11.76,
+    14.44,
+    15.56,
+    19.4,
+    20.92,
+    25.04,
+    31.32,
+    33.08,
+    34.76,
+    37.44,
+    40.76,
+    42.16,
+    43.6,
+    45.08,
+    47.04,
+    49.8,
+    51.8,
+    52.56,
+    54.24,
+    55.24,
+    55.92,
+    58.92,
+    62.2,
+    64.48,
+    70.16,
+    71.6
+  ],
+  "numero_tagli": 39,
+  "parole": 202,
+  "secondi_per_taglio": 1.84,
+  "parole_al_secondo": 2.74,
+  "segmenti": [
+    {
+      "inizio": 0.0,
+      "fine": 3.2,
+      "testo": "questa lasagna di merda la zucca fa proprio cagare"
+    },
+    {
+      "inizio": 3.2,
+      "fine": 7.48,
+      "testo": "prendo questa cipolla di merda e inizio a tagliarla alla cazzo di cane perché"
+    },
+    {
+      "inizio": 7.48,
+      "fine": 8.64,
+      "testo": "non sono capace"
+    },
+    {
+      "inizio": 8.64,
+      "fine": 10.78,
+      "testo": "la zucca è venuta ancora peggio"
+    },
+    {
+      "inizio": 10.78,
+      "fine": 14.84,
+      "testo": "dopo essermi reso conto che questo coltello era troppo grande ne prendo"
+    },
+    {
+      "inizio": 14.84,
+      "fine": 15.94,
+      "testo": "uno più piccolo"
+    },
+    {
+      "inizio": 15.94,
+      "fine": 19.3,
+      "testo": "per poi rendermi conto che me ne serviva uno più grande"
+    },
+    {
+      "inizio": 19.3,
+      "fine": 24.08,
+      "testo": "ora in una padella ovviamente sporca ci butto cipolla e salsiccia"
+    },
+    {
+      "inizio": 24.08,
+      "fine": 26.6,
+      "testo": "lascio rosolare un po' così come mi viene"
+    },
+    {
+      "inizio": 26.6,
+      "fine": 29.08,
+      "testo": "e sfumo con mezza bibita energetica"
+    },
+    {
+      "inizio": 29.08,
+      "fine": 31.4,
+      "testo": "l'altra metà me la sono bevuta"
+    },
+    {
+      "inizio": 31.4,
+      "fine": 34.72,
+      "testo": "dopo essermi scolato 17 bibite energetiche"
+    },
+    {
+      "inizio": 34.72,
+      "fine": 37.4,
+      "testo": "non mi ricordo più cosa cazzo devo fare adesso"
+    },
+    {
+      "inizio": 37.4,
+      "fine": 39.36,
+      "testo": "ah si la besciamella"
+    },
+    {
+      "inizio": 39.36,
+      "fine": 42.68,
+      "testo": "che preparo con burro farina colombiana"
+    },
+    {
+      "inizio": 42.68,
+      "fine": 44.52,
+      "testo": "e un po' di salvini caldo"
+    },
+    {
+      "inizio": 44.52,
+      "fine": 49.04,
+      "testo": "aggiungo ancora un po' di salvini per migliorarne la consistenza"
+    },
+    {
+      "inizio": 49.04,
+      "fine": 52.84,
+      "testo": "iniziamo a farcire questa lasagna del cazzo ma siccome sono un po'"
+    },
+    {
+      "inizio": 52.84,
+      "fine": 57.44,
+      "testo": "incoglionito dopo soli due strati ho già finito tutto il condimento"
+    },
+    {
+      "inizio": 57.44,
+      "fine": 61.72,
+      "testo": "quindi apro delle lattine del ragù peggiore che ho trovato al discount"
+    },
+    {
+      "inizio": 61.72,
+      "fine": 64.2,
+      "testo": "e finisco di condire sta merda"
+    },
+    {
+      "inizio": 64.2,
+      "fine": 68.44,
+      "testo": "la metto in forno per 95 anni ma vanno bene anche 20 minuti"
+    },
+    {
+      "inizio": 68.44,
+      "fine": 70.28,
+      "testo": "questa era la mia lasagna"
+    },
+    {
+      "inizio": 70.28,
+      "fine": 73.8,
+      "testo": "e di come la fai tu non me ne frega assolutamente un cazzo"
+    }
+  ],
+  "analizzato": "2026-10-28"
+}

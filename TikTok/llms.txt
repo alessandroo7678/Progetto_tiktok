@@ -1,0 +1,31 @@
+# Cervello TikTok
+
+> Hub centrale del progetto per automatizzare un account TikTok: contenuti, script e processi.
+
+<!-- File derivato: generato da TikTok/code/genera_llms.py. Non modificarlo a mano, rigeneralo. -->
+
+## self
+
+- [[cervello]] -- Hub centrale del progetto per automatizzare un account TikTok: contenuti, script e processi.
+
+## areas
+
+- [[area-produzione]] -- Mappa del reparto produzione: dagli esempi analizzati allo script pronto per la voce e il montaggio.
+- [[area-satira]] -- Mappa del reparto contenuti: format finto TG, tono, regole della satira e bersagli.
+
+## projects
+
+## concepts
+
+## docs
+
+## entities
+
+- [[persona-giorgia-meloni]] -- Presidente del Consiglio e leader di Fratelli d'Italia: bersaglio della satira.
+- [[persona-roberto-vannacci]] -- Generale ed europarlamentare, fondatore di Futuro Nazionale: bersaglio della satira.
+
+## data
+
+## code
+
+## outputs

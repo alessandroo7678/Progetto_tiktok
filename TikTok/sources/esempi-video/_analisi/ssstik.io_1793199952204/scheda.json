@@ -1,0 +1,63 @@
+{
+  "larghezza": 576,
+  "altezza": 1024,
+  "fps": 30.0,
+  "durata_s": 46.97,
+  "file": "ssstik.io_1793199952204.mp4",
+  "lingua": "it",
+  "tagli_s": [
+    45.0
+  ],
+  "numero_tagli": 1,
+  "parole": 98,
+  "secondi_per_taglio": 23.48,
+  "parole_al_secondo": 2.09,
+  "segmenti": [
+    {
+      "inizio": 0.0,
+      "fine": 5.0,
+      "testo": "Ecco quando finirà questo caldo di merda ma partiamo un attimo col dire che"
+    },
+    {
+      "inizio": 5.0,
+      "fine": 9.4,
+      "testo": "purtroppo queste simpaticissime nuvolette non si presenteranno su"
+    },
+    {
+      "inizio": 9.4,
+      "fine": 13.76,
+      "testo": "tutta l'Italia. Caro sud, se pensavi di essere incluso,"
+    },
+    {
+      "inizio": 13.76,
+      "fine": 19.32,
+      "testo": "ti sbagliavi di grosso. Ah sì, le temperature faranno comunque cagare."
+    },
+    {
+      "inizio": 19.32,
+      "fine": 25.44,
+      "testo": "Al centro, possibili piogge sparse alla cazzo di cane, potrebbero rinfrescare i"
+    },
+    {
+      "inizio": 25.44,
+      "fine": 31.68,
+      "testo": "cosiddetti coglioni. La vera svolta arriva al nord, soprattutto tra Veneto e Friuli."
+    },
+    {
+      "inizio": 31.68,
+      "fine": 37.4,
+      "testo": "Qui le nuvole potrebbero finalmente fare il loro cazzo di lavoro, forti rovesci e"
+    },
+    {
+      "inizio": 37.4,
+      "fine": 42.24,
+      "testo": "temperature in calo su gran parte del territorio settentrionale nella giornata"
+    },
+    {
+      "inizio": 42.24,
+      "fine": 46.97,
+      "testo": "tra il 16 e 17 agosto."
+    }
+  ],
+  "analizzato": "2026-10-28"
+}

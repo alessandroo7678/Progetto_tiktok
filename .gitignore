@@ -1,0 +1,25 @@
+# Obsidian: stato dell'interfaccia, cambia a ogni apertura (il resto di .obsidian è versionato)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Cache
+.obsidian/cache/
+.trash/
+__pycache__/
+*.pyc
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Segreti (token, chiavi): mai nella cronologia
+.env
+.env.*
+
+# Video di esempio e fotogrammi: pesanti e spesso di altri. Le trascrizioni e le schede restano versionate
+TikTok/sources/esempi-video/*.mp4
+TikTok/sources/esempi-video/*.mov
+TikTok/sources/esempi-video/*.m4v
+TikTok/sources/esempi-video/*.webm
+TikTok/sources/esempi-video/*.mkv
+TikTok/sources/esempi-video/_analisi/*/frames/
